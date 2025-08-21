@@ -31,6 +31,6 @@ git commit -m "first commit"
 
 git add . && git commit -m "update Readme.md"
 
-git remote add origin https://github.com/c17hawke/simple-dvc-demo.git
+git remote add origin https://github.com/Chithras2000/simple-dvc-demo.git
 git branch -M main
 git push origin main
